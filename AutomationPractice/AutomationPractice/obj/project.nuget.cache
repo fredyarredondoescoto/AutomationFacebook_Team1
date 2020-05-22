@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHZ5e5mjJAX6j+3nZa5Sb5h/NnoaE6BzKm5jHe3w2V1fn+WCNPHp+rbo1ggH72baRdjRF2bQAA6PeeHMkA65jg==",
+  "success": true,
+  "projectFilePath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

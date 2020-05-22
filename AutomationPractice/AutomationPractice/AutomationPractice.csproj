@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Locators\" />
+    <Folder Include="Automation\" />
+    <Folder Include="TestCase\" />
+  </ItemGroup>
+
 </Project>
