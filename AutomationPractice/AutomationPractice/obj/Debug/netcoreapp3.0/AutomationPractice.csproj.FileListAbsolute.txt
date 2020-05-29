@@ -1,0 +1,8 @@
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.exe
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csprojAssemblyReference.cache
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.AssemblyInfoInputs.cache
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.AssemblyInfo.cs
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csproj.CopyComplete
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.framework.dll

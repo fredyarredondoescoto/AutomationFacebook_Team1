@@ -7,8 +7,16 @@
 
   <ItemGroup>
     <Folder Include="Locators\" />
-    <Folder Include="Automation\" />
-    <Folder Include="TestCase\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver.IEDriver" Version="3.150.1" />
   </ItemGroup>
 
 </Project>

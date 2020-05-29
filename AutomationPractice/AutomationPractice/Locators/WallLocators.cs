@@ -27,6 +27,8 @@ namespace AutomationPractice.Locators
         public IWebElement FBChatTextBox => driver.FindElementByXPath("//div[@class='fbNubFlyoutFooter']/div[@role='presentation']");
         //SEND BUTTON
         public IWebElement FBSentMsgButton => driver.FindElementByXPath("//a[@label='send']");
+        //Searh a publication 
+        public IWebElement searchBox => driver.FindElementByClassName("_1frb");
 
 
         /*public IList<IWebElement> ContactOptions => driver.FindElements(By.XPath("//div[text()='Oscar Cova']"));*/
