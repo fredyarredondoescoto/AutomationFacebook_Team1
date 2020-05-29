@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj": {}
+    "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj": {}
   },
   "projects": {
-    "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj": {
+    "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
+        "projectUniqueName": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
         "projectName": "AutomationPractice",
-        "projectPath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
-        "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-        "outputPath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\obj\\",
+        "projectPath": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
+        "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\juani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +41,13 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+<<<<<<< Updated upstream
+=======
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+>>>>>>> Stashed changes
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
@@ -48,13 +58,26 @@
               "target": "Package",
               "version": "[3.16.1, )"
             },
+<<<<<<< Updated upstream
+=======
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+>>>>>>> Stashed changes
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[3.141.0, )"
             },
+<<<<<<< Updated upstream
             "Selenium.WebDriver.IEDriver": {
               "target": "Package",
               "version": "[3.150.1, )"
+=======
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[81.0.4044.6900, )"
+>>>>>>> Stashed changes
             }
           },
           "imports": [
@@ -74,7 +97,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.3, 3.0.3]"
+              "version": "[3.0.2, 3.0.2]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -90,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

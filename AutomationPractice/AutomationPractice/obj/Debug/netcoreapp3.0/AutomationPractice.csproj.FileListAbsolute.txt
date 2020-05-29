@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.exe
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csprojAssemblyReference.cache
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.AssemblyInfoInputs.cache
@@ -6,3 +7,21 @@ C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPract
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.dll
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csproj.CopyComplete
 C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.framework.dll
+=======
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.exe
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csprojAssemblyReference.cache
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.AssemblyInfoInputs.cache
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.AssemblyInfo.cs
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\SeleniumExtras.WaitHelpers.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csproj.CopyComplete
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.framework.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.engine.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+>>>>>>> Stashed changes
