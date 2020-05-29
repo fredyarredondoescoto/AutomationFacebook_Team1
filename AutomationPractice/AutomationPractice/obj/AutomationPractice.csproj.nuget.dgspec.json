@@ -41,13 +41,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-<<<<<<< Updated upstream
-=======
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[3.11.0, )"
             },
->>>>>>> Stashed changes
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
@@ -58,26 +55,17 @@
               "target": "Package",
               "version": "[3.16.1, )"
             },
-<<<<<<< Updated upstream
-=======
             "Selenium.Support": {
               "target": "Package",
               "version": "[3.141.0, )"
             },
->>>>>>> Stashed changes
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[3.141.0, )"
             },
-<<<<<<< Updated upstream
-            "Selenium.WebDriver.IEDriver": {
-              "target": "Package",
-              "version": "[3.150.1, )"
-=======
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
               "version": "[81.0.4044.6900, )"
->>>>>>> Stashed changes
             }
           },
           "imports": [

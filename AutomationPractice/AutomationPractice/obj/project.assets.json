@@ -2,8 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-<<<<<<< Updated upstream
-=======
       "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
         "type": "package",
         "dependencies": {
@@ -16,7 +14,6 @@
           "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
         }
       },
->>>>>>> Stashed changes
       "Microsoft.CSharp/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -195,8 +192,6 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-<<<<<<< Updated upstream
-=======
       "Selenium.Support/3.141.0": {
         "type": "package",
         "dependencies": {
@@ -209,7 +204,6 @@
           "lib/netstandard2.0/WebDriver.Support.dll": {}
         }
       },
->>>>>>> Stashed changes
       "Selenium.WebDriver/3.141.0": {
         "type": "package",
         "dependencies": {
@@ -222,17 +216,10 @@
           "lib/netstandard2.0/WebDriver.dll": {}
         }
       },
-<<<<<<< Updated upstream
-      "Selenium.WebDriver.IEDriver/3.150.1": {
-        "type": "package",
-        "build": {
-          "build/Selenium.WebDriver.IEDriver.targets": {}
-=======
       "Selenium.WebDriver.ChromeDriver/81.0.4044.6900": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
->>>>>>> Stashed changes
         }
       },
       "System.AppContext/4.1.0": {
@@ -974,8 +961,6 @@
     }
   },
   "libraries": {
-<<<<<<< Updated upstream
-=======
     "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
       "sha512": "xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
       "type": "package",
@@ -991,17 +976,12 @@
         "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll"
       ]
     },
->>>>>>> Stashed changes
     "Microsoft.CSharp/4.3.0": {
       "sha512": "P+MBhIM0YX+JqROuf7i306ZLJEjQYA9uUyRDE+OqwUI5sh41e2ZbPQV3LfAPh+29cmceE1pUffXsGfR4eMY3KA==",
       "type": "package",
       "path": "microsoft.csharp/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1103,10 +1083,6 @@
       "path": "microsoft.win32.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1144,10 +1120,6 @@
       "path": "microsoft.win32.registry/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/Microsoft.Win32.Registry.dll",
@@ -1389,10 +1361,6 @@
       "path": "runtime.native.system/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -1400,8 +1368,6 @@
         "runtime.native.system.nuspec"
       ]
     },
-<<<<<<< Updated upstream
-=======
     "Selenium.Support/3.141.0": {
       "sha512": "F4sxMCXGyqWtbw5qsniJRgza2UsBnslHwFgNA2p7hPxvJhqg73lyXu/ZscJ7FSfRvq3eJrosysv92+4sZ3vWsg==",
       "type": "package",
@@ -1421,7 +1387,6 @@
         "selenium.support.nuspec"
       ]
     },
->>>>>>> Stashed changes
     "Selenium.WebDriver/3.141.0": {
       "sha512": "wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
       "type": "package",
@@ -1441,19 +1406,6 @@
         "selenium.webdriver.nuspec"
       ]
     },
-<<<<<<< Updated upstream
-    "Selenium.WebDriver.IEDriver/3.150.1": {
-      "sha512": "w30U4b7qQm86jQBAm7DFJTlwXPvNmDIs5/Ebz0UPuKEFVFwWEi0IfWqnzJxzH73vspDW5hXbs2C929U4FUpbvg==",
-      "type": "package",
-      "path": "selenium.webdriver.iedriver/3.150.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/Selenium.WebDriver.IEDriver.targets",
-        "driver/IEDriverServer.exe",
-        "selenium.webdriver.iedriver.3.150.1.nupkg.sha512",
-        "selenium.webdriver.iedriver.nuspec"
-=======
     "Selenium.WebDriver.ChromeDriver/81.0.4044.6900": {
       "sha512": "UQ1BIbA+XkjwsX9j8bDDtucNgMRdpnxuxjer37SuOpztjpgVA/5dOAPfGePjm36kT+NNb4mDsxqhKcKM6b14ow==",
       "type": "package",
@@ -1467,7 +1419,6 @@
         "driver/win32/chromedriver.exe",
         "selenium.webdriver.chromedriver.81.0.4044.6900.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
->>>>>>> Stashed changes
       ]
     },
     "System.AppContext/4.1.0": {
@@ -1476,10 +1427,6 @@
       "path": "system.appcontext/4.1.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1534,10 +1481,6 @@
       "path": "system.collections/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1605,10 +1548,6 @@
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1647,10 +1586,6 @@
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1689,10 +1624,6 @@
       "path": "system.componentmodel/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1821,10 +1752,6 @@
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1863,10 +1790,6 @@
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1919,10 +1842,6 @@
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1990,10 +1909,6 @@
       "path": "system.diagnostics.process/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2050,10 +1965,6 @@
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2124,10 +2035,6 @@
       "path": "system.globalization/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2195,10 +2102,6 @@
       "path": "system.globalization.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2239,10 +2142,6 @@
       "path": "system.io/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2323,10 +2222,6 @@
       "path": "system.io.filesystem/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2364,10 +2259,6 @@
       "path": "system.io.filesystem.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2406,10 +2297,6 @@
       "path": "system.linq/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2481,10 +2368,6 @@
       "path": "system.linq.expressions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2568,10 +2451,6 @@
       "path": "system.objectmodel/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2641,10 +2520,6 @@
       "path": "system.reflection/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2851,10 +2726,6 @@
       "path": "system.reflection.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2911,10 +2782,6 @@
       "path": "system.reflection.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2971,10 +2838,6 @@
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3028,10 +2891,6 @@
       "path": "system.resources.resourcemanager/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3088,10 +2947,6 @@
       "path": "system.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3183,10 +3038,6 @@
       "path": "system.runtime.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3267,10 +3118,6 @@
       "path": "system.runtime.handles/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3308,10 +3155,6 @@
       "path": "system.runtime.interopservices/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3404,10 +3247,6 @@
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3442,10 +3281,6 @@
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3474,10 +3309,6 @@
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3550,10 +3381,6 @@
       "path": "system.text.encoding/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3621,10 +3448,6 @@
       "path": "system.text.encoding.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3692,10 +3515,6 @@
       "path": "system.text.regularexpressions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3779,10 +3598,6 @@
       "path": "system.threading/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3853,10 +3668,6 @@
       "path": "system.threading.tasks/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3924,10 +3735,6 @@
       "path": "system.threading.tasks.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
@@ -3944,10 +3751,6 @@
       "path": "system.threading.thread/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3987,10 +3790,6 @@
       "path": "system.threading.threadpool/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4030,10 +3829,6 @@
       "path": "system.xml.readerwriter/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4105,10 +3900,6 @@
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4147,10 +3938,6 @@
       "path": "system.xml.xpath/4.3.0",
       "files": [
         ".nupkg.metadata",
-<<<<<<< Updated upstream
-        ".signature.p7s",
-=======
->>>>>>> Stashed changes
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4224,19 +4011,12 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-<<<<<<< Updated upstream
-      "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1",
-      "Selenium.WebDriver >= 3.141.0",
-      "Selenium.WebDriver.IEDriver >= 3.150.1"
-=======
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
       "Selenium.Support >= 3.141.0",
       "Selenium.WebDriver >= 3.141.0",
       "Selenium.WebDriver.ChromeDriver >= 81.0.4044.6900"
->>>>>>> Stashed changes
     ]
   },
   "packageFolders": {
@@ -4280,13 +4060,10 @@
     "frameworks": {
       "netcoreapp3.0": {
         "dependencies": {
-<<<<<<< Updated upstream
-=======
           "DotNetSeleniumExtras.WaitHelpers": {
             "target": "Package",
             "version": "[3.11.0, )"
           },
->>>>>>> Stashed changes
           "NUnit": {
             "target": "Package",
             "version": "[3.12.0, )"
@@ -4297,26 +4074,17 @@
             "target": "Package",
             "version": "[3.16.1, )"
           },
-<<<<<<< Updated upstream
-=======
           "Selenium.Support": {
             "target": "Package",
             "version": "[3.141.0, )"
           },
->>>>>>> Stashed changes
           "Selenium.WebDriver": {
             "target": "Package",
             "version": "[3.141.0, )"
           },
-<<<<<<< Updated upstream
-          "Selenium.WebDriver.IEDriver": {
-            "target": "Package",
-            "version": "[3.150.1, )"
-=======
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
             "version": "[81.0.4044.6900, )"
->>>>>>> Stashed changes
           }
         },
         "imports": [
