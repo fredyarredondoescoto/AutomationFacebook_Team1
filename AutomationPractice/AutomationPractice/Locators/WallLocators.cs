@@ -18,20 +18,32 @@ namespace AutomationPractice.Locators
             wait = Wait;
         }
         //CHAT LIST
-        public IWebElement FBChatList => driver.FindElementByXPath("//div[@id='fbDockChatBuddylistNub']/a[@class='fbNubButton']");
+        //public IWebElement FBChatList => driver.FindElementByXPath("//div[@id='fbDockChatBuddylistNub']/a[@class='fbNubButton']");
+        public By FBChatListOld = By.XPath("//div[@id='fbDockChatBuddylistNub']/a[@class='fbNubButton']");
+        public By FBChatListNew = By.XPath("//div[@aria-label='Nuevo mensaje']");
+
         //SEARCH A CONTACT
-        public IWebElement FBClSearchContact => driver.FindElementByXPath("//div[@id='BuddylistPagelet']//input[@placeholder='Buscar']");
+        //public IWebElement FBClSearchContact => driver.FindElementByXPath("//div[@id='BuddylistPagelet']//input[@placeholder='Buscar']");
+        public By FBClSearchContactOld = By.XPath("//div[@id='BuddylistPagelet']//input[@placeholder='Buscar']");
+        public By FBClSearchContactNew = By.XPath("//span[@data-testid='Keycommand_wrapper']");
+
         //SELECT A CONTACT
-        public IWebElement FBClSelectContact => driver.FindElementByXPath("(.//div[text()='Oscar Cova'])[position()=2]");
+        //public IWebElement FBClSelectContact => driver.FindElementByXPath("(.//div[text()='Cova LoL'])[position()=1]");
+        public By FBClSelectContactOld = By.XPath("(.//div[text()='Cova LoL'])[position()=1]");
+        public By FBClSelectContactNew = By.XPath("//div[@aria-label='Cova LoL']");
+
         //CHAT TEXT BOX
-        public IWebElement FBChatTextBox => driver.FindElementByXPath("//div[@class='fbNubFlyoutFooter']/div[@role='presentation']");
+        //public IWebElement FBChatTextBox => driver.FindElementByXPath("//div[@class='fbNubFlyoutFooter']/div[@role='presentation']");
+        public By FBChatTextBoxOld = By.XPath("//div[@class='fbNubFlyoutFooter']/div[@role='presentation']");
+        public By FBChatTextBoxNew = By.XPath("//div[text()='Aa']");
+
         //SEND BUTTON
-        public IWebElement FBSentMsgButton => driver.FindElementByXPath("//a[@label='send']");
+        //public IWebElement FBSentMsgButton => driver.FindElementByXPath("//a[@label='send']");
+        public By FBSentMsgButtonOld = By.XPath("//a[@label='send']");
+        public By FBSentMsgButtonNew = By.XPath("//div[@aria-label='Presiona \"Enter\" para enviar']");
+
         //Searh a publication 
         public IWebElement searchBox => driver.FindElementByClassName("_1frb");
-
-
-        /*public IList<IWebElement> ContactOptions => driver.FindElements(By.XPath("//div[text()='Oscar Cova']"));*/
 
     }
 }
