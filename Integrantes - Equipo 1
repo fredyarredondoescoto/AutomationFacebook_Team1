@@ -1,0 +1,12 @@
+Alfredo Arredondo
+	*LogIn
+		-LoginLocators.cs
+		-LogIn.cs
+	*Enviar un msj a Cova LoL
+		-WallLocators.cs (Del Toda la estructura y desde el primer locator CHAT LIST hasta SEND BUTTON)
+		-SendMsg.cs
+		-SendMsgTest.cs
+
+Juan Manuel Martinez		
+
+Ariel Martinz Corona
