@@ -25,3 +25,20 @@ D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Tea
 D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
 D:\Documentos\Automatización con Selenium II\GitPractice\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
 >>>>>>> Stashed changes
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.csproj.CoreCompileInputs.cache
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.engine.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.deps.json
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.runtimeconfig.json
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.runtimeconfig.dev.json
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\AutomationPractice.pdb
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\SeleniumExtras.WaitHelpers.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.dll
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.pdb
+C:\Automation Course\AutomationFacebook_Team1\AutomationPractice\AutomationPractice\obj\Debug\netcoreapp3.0\AutomationPractice.genruntimeconfig.cache

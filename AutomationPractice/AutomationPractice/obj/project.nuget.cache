@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dIQ+SsewdCTitWFbXpeQjPND+47wZXik+uATzK57gI7z3AS47DlerbQvVvuZVpYtWBoTCM5aJtB9IL36n0nb/A==",
+  "dgSpecHash": "/tvM9dTDM1ncxdZXLbuZAGi7Qz9yUD1I5nWAqq5F6Y2kTdLSEhg3ulP8229Z7mZF4HiyV0+A1HTgrNiXJ92FuQ==",
   "success": true,
   "projectFilePath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\juani\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -15,8 +16,9 @@
     "C:\\Users\\juani\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
-    "C:\\Users\\juani\\.nuget\\packages\\selenium.webdriver.iedriver\\3.150.1\\selenium.webdriver.iedriver.3.150.1.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\selenium.webdriver.chromedriver\\81.0.4044.6900\\selenium.webdriver.chromedriver.81.0.4044.6900.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

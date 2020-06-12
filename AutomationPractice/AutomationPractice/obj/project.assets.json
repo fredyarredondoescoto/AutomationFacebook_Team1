@@ -4020,23 +4020,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alfre\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\juani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
+      "projectUniqueName": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
       "projectName": "AutomationPractice",
-      "projectPath": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
-      "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Automatización con Selenium II\\GitPractice\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\obj\\",
+      "projectPath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\AutomationPractice.csproj",
+      "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
+      "outputPath": "C:\\Automation Course\\AutomationFacebook_Team1\\AutomationPractice\\AutomationPractice\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4104,7 +4100,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.2, 3.0.2]"
+            "version": "[3.0.3, 3.0.3]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -4120,7 +4116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
