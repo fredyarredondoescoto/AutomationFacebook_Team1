@@ -45,7 +45,7 @@ namespace AutomationPractice.Automation
                 else
                 {
                     likeLocator.SearchBoxN.Click();
-                    likeLocator.SearchBoxN.SendKeys("Juan");
+                    likeLocator.SearchBoxN.SendKeys("Cova LoL");
                     likeLocator.SearchBoxN.SendKeys(Keys.Enter);
                     Thread.Sleep(5000);
                     likeLocator.LikebuttonN.Click();
